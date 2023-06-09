@@ -5,16 +5,16 @@ form.innerHTML = `
     <h1 class="form-top-title">무료 PDF 신청하기</h1>
     <div class="form-box-inner">
         <form action="" id="form_e11" method="POST" target="hidden_iframe11" onsubmit="dll(); submitted=true;">
-
+            <input type="hidden" name="entry.1278266430" id="book-name" value="">
             <div class="form-box-tb-out">
             <br>
                 <table class="form-box-tb">
                     <tbody>
-                        <tr id="select_lic">
+                        <tr id="select_lic" style="display:none;">
                             <th><!--<i class="fa fa-user" aria-hidden="true"></i>-->자격증<br></th>
                             <td>
 
-                                <select name='entry.302176945' id='license' class="form-control" placeholder="현재 조건">
+                                <!--<select name='entry.302176945' id='license' class="form-control" placeholder="현재 조건">
 
                                     <option value="자격증 선택" selected disabled>자격증 선택</option>
                                         <option value="손해평가사">손해평가사</option>
@@ -23,7 +23,7 @@ form.innerHTML = `
                                         <option value="반려견스타일리스트">반려견스타일리스트</option>
                                         <option value="맞춤형화장품제조관리사">화장품제조관리사 (서울, 수도권 거주자 한정)</option>
                                       
-                                </select>
+                                </select> -->
 
                                 <!--한번에 여러개 신청하는 기능-->
                                 <!-- <input type='checkbox' name='lic' class="chk_lic" id='license1'  value="손해평가사" style="display:none;"> <label for="license1"> 손해평가사 </label>
