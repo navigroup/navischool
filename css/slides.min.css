@@ -3320,3 +3320,22 @@ td.copyright span.c-txt {color:#333;}
 	width:100%; height:40px; margin:0 auto; margin-top:5px; margin-bottom: 10px; background:#0e3b64;
 	color:#fff!important; font-weight:500; text-align:center; line-height:40px; font-size: 16px;
 }
+
+
+.mpic-1024{
+  display:none;
+}
+
+.pcpic-1024{
+  display:inline;
+}
+
+@media screen and (max-width:1023px) {
+  .mpic-1024{
+      display:inline;
+  }
+  .pcpic-1024{
+      display:none;
+    }
+  
+}
