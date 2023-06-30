@@ -52,6 +52,11 @@ menu.innerHTML = `
                     <br><span class="menu_ex">[소망을 현실로 변화시키는 질문법]</span> -->
                     </a></p></li>
 
+                    <li><p><a target="_self" href="./publishing.html"><img src="img/favicon.png" style="width:20px;margin-right:4px;margin-bottom:4px;">나비스쿨 출판
+                    <!-- <span class="blink menu_event"> 확언 질문집 PDF 무료제공</span>
+                    <br><span class="menu_ex">[소망을 현실로 변화시키는 질문법]</span> -->
+                    </a></p></li>
+
                     <li><p><a target="_self" href="./program.html"><img src="img/favicon.png" style="width:20px;margin-right:4px;margin-bottom:4px;">PROGRAM
                     <!-- <span class="blink menu_event"> 확언 질문집 PDF 무료제공</span>
                     <br><span class="menu_ex">[소망을 현실로 변화시키는 질문법]</span> -->
@@ -99,16 +104,21 @@ menu.innerHTML = `
                         
                         <li><p><a target="_self" href="./money-therapy.html"> <img src="https://image.yes24.com/goods/110009030/XL" style="width:20px;margin-right:4px;margin-bottom:-6px;">머니테라피<span class="blink menu_event"> 진단 테스트 PDF 무료제공</span><br><span class="menu_ex">[돈을 다루는 방법에 관한 최고의 안내서]</span></a></p></li>
 
-                        <li><p><a target="_self" href="./haru.html"> <img src="https://contents.kyobobook.co.kr/sih/fit-in/458x0/pdt/9791197389474.jpg" style="width:20px;margin-right:4px;margin-bottom:-6px;border:1px solid #000;">하루 한 걸음씩 행복해지기<span class="blink menu_event"> 샘플북 PDF 무료제공</span><br><span class="menu_ex">[불안을 가라앉히고 행복을 발견하는 방법]</span></a></p></li>
-                        </ul>
-                    </div>
-                    <!--<div class="set-con">
-                        <p>재능</p>
-                        <ul class="bottom">
-                            <li><a target="_self" href="./potential-test.html"></a></li>
+                       
+
+                        <li><p><a target="_self" href="./yliw.html"> <img src="https://image.yes24.com/goods/98397983/XL" style="width:20px;margin-right:4px;margin-bottom:-6px;border:1px solid #000;">여기서 끝이 아니다<span class="blink menu_event"> 30일 변화 프로그램</span><br><span class="menu_ex">[소망을 현실로 이루는 행복하고 쉬운 실전법칙]</span></a></p></li>
+
+                       
                         </ul>
                     </div>
                     <div class="set-con">
+                        <p>나비스쿨 출판</p>
+                        <ul class="bottom">
+                        <li><p><a target="_self" href="./miracle.html"> <img src="https://image.yes24.com/goods/104127882/XL" style="width:20px;margin-right:4px;margin-bottom:-6px;border:1px solid #000;">미라클 인사이트<span class="blink menu_event"> 샘플북 PDF 무료제공</span><br><span class="menu_ex">[여러분의 문제를 해결하는 통찰과 지혜의 문구]</span></a></p></li>
+                        <li><p><a target="_self" href="./haru.html"> <img src="https://contents.kyobobook.co.kr/sih/fit-in/458x0/pdt/9791197389474.jpg" style="width:20px;margin-right:4px;margin-bottom:-6px;border:1px solid #000;">하루 한 걸음씩 행복해지기<span class="blink menu_event"> 샘플북 PDF 무료제공</span><br><span class="menu_ex">[불안을 가라앉히고 행복을 발견하는 방법]</span></a></p></li>
+                        </ul>
+                    </div>
+                   <!-- <div class="set-con">
                       <p>학습법</p>
                       <ul class="bottom">
                           <li><a target="_self" href="./howtostudy.html"></a></li>
